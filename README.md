@@ -19,7 +19,7 @@
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(10).pdf" style="text-decoration:none;">RGBD-Net: Predicting color and depth images for novel views synthesis </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(11).pdf" style="text-decoration:none;">Monocular Dierentiable Rendering for
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(11).pdf" style="text-decoration:none;">Monocular Differentiable Rendering for
 Self-Supervised 3D Object Detection</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(12).pdf" style="text-decoration:none;">AutoInt: Automatic Integration for Fast Neural Volume Rendering</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(13).pdf" style="text-decoration:none;">Deep Parametric Indoor Lighting Estimation</a></li>
