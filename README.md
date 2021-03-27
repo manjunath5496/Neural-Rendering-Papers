@@ -76,132 +76,121 @@ Single Image</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(38).pdf" style="text-decoration:none;">Portrait Neural Radiance Fields from a Single Image</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(39).pdf" style="text-decoration:none;">NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(40).pdf" style="text-decoration:none;">Modular Primitives for High-Performance Differentiable Rendering</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(41).pdf" style="text-decoration:none;">Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(42).pdf" style="text-decoration:none;">Equivariant Multi-View Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(43).pdf" style="text-decoration:none;">NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(44).pdf" style="text-decoration:none;">Learning Illumination from Diverse Portraits</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(45).pdf" style="text-decoration:none;">Leveraging 2D Data to Learn Textured 3D Mesh Generation</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(46).pdf" style="text-decoration:none;">Neural Sparse Voxel Fields</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(47).pdf" style="text-decoration:none;">Local Class-Specific and Global Image-Level Generative Adversarial Networks for Semantic-Guided Scene Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(48).pdf" style="text-decoration:none;">DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(49).pdf" style="text-decoration:none;">Self-supervised Learning of 3D Objects from Natural Images</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(50).pdf" style="text-decoration:none;">PolyGen: An Autoregressive Generative Model of 3D Meshes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(51).pdf" style="text-decoration:none;">Learning to Shadow Hand-drawn Sketches</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(52).pdf" style="text-decoration:none;">Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(53).pdf" style="text-decoration:none;">Learning 3D Part Assembly from a Single Image</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(54).pdf" style="text-decoration:none;">Image Animation with Perturbed Masks </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(55).pdf" style="text-decoration:none;">GramGAN: Deep 3D Texture Synthesis
+From 2D Exemplars</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(56).pdf" style="text-decoration:none;">Stable View Synthesis </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(57).pdf" style="text-decoration:none;">Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(58).pdf" style="text-decoration:none;">DualSDF: Semantic Shape Manipulation using a Two-Level Representation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(59).pdf" style="text-decoration:none;">Deferred Neural Rendering:
+Image Synthesis using Neural Textures</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(60).pdf" style="text-decoration:none;">Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(61).pdf" style="text-decoration:none;">Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(62).pdf" style="text-decoration:none;">Neural Contours: Learning to Draw Lines from 3D Shapes</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(63).pdf" style="text-decoration:none;">ShaRF: Shape-conditioned Radiance Fields from a Single View</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(64).pdf" style="text-decoration:none;">Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(65).pdf" style="text-decoration:none;">Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(66).pdf" style="text-decoration:none;">Deep Shading: Convolutional Neural Networks for Screen-Space Shading</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(67).pdf" style="text-decoration:none;">MatryODShka: Real-time 6DoF Video
+View Synthesis using Multi-Sphere Images</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(68).pdf" style="text-decoration:none;">Revealing Scenes by Inverting Structure from Motion Reconstructions</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(69).pdf" style="text-decoration:none;">C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(70).pdf" style="text-decoration:none;">Layered Neural Rendering for Retiming People in Video</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(71).pdf" style="text-decoration:none;">Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(72).pdf" style="text-decoration:none;">PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(73).pdf" style="text-decoration:none;">Neural Rerendering in the Wild</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(74).pdf" style="text-decoration:none;">Neural Head Reenactment with Latent Pose Descriptors</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(75).pdf" style="text-decoration:none;">Polarimetric Multi-View Inverse Rendering</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(76).pdf" style="text-decoration:none;">One-Shot Identity-Preserving Portrait
+Reenactment</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(77).pdf" style="text-decoration:none;">LIMP: Learning Latent Shape Representations with Metric Preservation Priors</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(78).pdf" style="text-decoration:none;">A Neural Rendering Framework for Free-Viewpoint Relighting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(79).pdf" style="text-decoration:none;">Neural Volumes: Learning Dynamic Renderable Volumes from Images</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(80).pdf" style="text-decoration:none;">NeRF: Representing Scenes as
+Neural Radiance Fields for View Synthesis</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(81).pdf" style="text-decoration:none;">Equivariant Neural Rendering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(82).pdf" style="text-decoration:none;">Neural Unsigned Distance Fields for Implicit Function Learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(83).pdf" style="text-decoration:none;">iNeRF: Inverting Neural Radiance Fields for Pose Estimation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(84).pdf" style="text-decoration:none;">Extending DeepSDF for automatic 3D shape retrieval and similarity transform estimation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(85).pdf" style="text-decoration:none;">TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(86).pdf" style="text-decoration:none;">Wasserstein Generative Models for Patch-based Texture Synthesis</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(87).pdf" style="text-decoration:none;">Learning a Neural 3D Texture Space from 2D Exemplars</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(88).pdf" style="text-decoration:none;">A Free Viewpoint Portrait Generator with Dynamic Styling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(89).pdf" style="text-decoration:none;">Local Light Field Fusion:
+Practical View Synthesis with Prescriptive Sampling Guidelines</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(90).pdf" style="text-decoration:none;"> Speech Driven Talking Face Generation from a Single Image and an Emotion Condition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(91).pdf" style="text-decoration:none;">Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(92).pdf" style="text-decoration:none;">Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(93).pdf" style="text-decoration:none;"> Monocular Real-Time Volumetric Performance Capture</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(94).pdf" style="text-decoration:none;">Neural Point-Based Graphics</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(95).pdf" style="text-decoration:none;">Texture Fields: Learning Texture Representations in Function Space</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(96).pdf" style="text-decoration:none;">GPU-Accelerated Mobile Multi-view Style Transfer</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(97).pdf" style="text-decoration:none;">One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(98).pdf" style="text-decoration:none;">Local Deep Implicit Functions for 3D Shape</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(99).pdf" style="text-decoration:none;">Progressive Pose Attention Transfer for Person Image Generation</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(100).pdf" style="text-decoration:none;">Learning View Priors for Single-view 3D Reconstruction</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
   
