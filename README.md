@@ -322,7 +322,7 @@ Real-time Rendering with Implicit 3D Shapes</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(165).pdf" style="text-decoration:none;">Neural Human Video Rendering
 by Learning Dynamic Textures and Rendering-to-Video Translation</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(166).pdf" style="text-decoration:none;">State of the Art on Neural Rendering</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(167).pdf" style="text-decoration:none;">FaR-GAN for One-Shot Face Reenactment</a></li> 
  
