@@ -398,24 +398,24 @@ Browser-side Assistance</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(200).pdf" style="text-decoration:none;">Security bugs in embedded interpreters</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(201).pdf" style="text-decoration:none;">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(201).pdf" style="text-decoration:none;">Space-time Neural Irradiance Fields for Free-Viewpoint Video</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(202).pdf" style="text-decoration:none;">Vuvuzela: a scalable private messaging system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(202).pdf" style="text-decoration:none;">Light Stage Super-Resolution: Continuous High-Frequency Relighting</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(203).pdf" style="text-decoration:none;">Vx32: Lightweight User-level Sandboxing on the x86</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(203).pdf" style="text-decoration:none;">NiLBS: Neural Inverse Linear Blend Skinning</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(204).pdf" style="text-decoration:none;">Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(205).pdf" style="text-decoration:none;">Deep Single-Image Portrait Relighting</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(206).pdf" style="text-decoration:none;">High-Fidelity Neural Human Motion Transfer from Monocular Video</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(207).pdf" style="text-decoration:none;">Learning Compositional Radiance Fields of Dynamic Human Heads</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(208).pdf" style="text-decoration:none;">Understanding Programming Languages</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(208).pdf" style="text-decoration:none;">Neural Volume Rendering: NeRF And Beyond</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(209).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(210).pdf" style="text-decoration:none;">Whanau: A Sybil-Proof Distributed Hash Table</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(209).pdf" style="text-decoration:none;">ReenactNet: Real-time Full Head Reenactment</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(210).pdf" style="text-decoration:none;">Neural State Machine for Character-Scene Interactions</a></li>
 
 </ul>
 
