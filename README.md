@@ -58,7 +58,7 @@ for View Synthesis</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(29).pdf" style="text-decoration:none;">Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(30).pdf" style="text-decoration:none;">Pix2Shape { Towards Unsupervised Learning of 3D Scenes from Images using a View-based Representation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(30).pdf" style="text-decoration:none;">Pix2Shape: Towards Unsupervised Learning of 3D Scenes from Images using a View-based Representation</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(31).pdf" style="text-decoration:none;">NeRD: Neural Reflectance Decomposition from Image Collections</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Neural-Rendering-Papers/blob/master/n(32).pdf" style="text-decoration:none;">Mixture of Volumetric Primitives for Efficient Neural Rendering</a></li> 
